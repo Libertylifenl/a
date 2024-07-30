@@ -5,8 +5,6 @@ theme:
     scheme: slate
     primary: indigo
 
-    google_analytics: ['G-TMEEKBJVZ0', 'libertylife.nl']
-    
   site_author: 'Liberty Life - Bestuur'
   logo: https://i.imgur.com/vomieBg.png
   favicon: https://i.imgur.com/vomieBg.png
