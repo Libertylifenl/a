@@ -51,7 +51,7 @@ Dank voor je medewerking en veel plezier in onze stad!
     De Algemene Plaatselijke Verordening (APV) is opgesteld namens de Hoge Raad en is van toepassing op het eiland, de gemeente en de stad genaamd "Liberty Life".
 
 
-## Overheids Sollicitatie's
+## Overheids Sollicitatie
 
 <table border="1">
     <thead>
